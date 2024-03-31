@@ -60,7 +60,6 @@ export default class Scenario extends Scene {
 
         // Start rotating immediately
         this.update();
-
     }
 
     resize() {
